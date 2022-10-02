@@ -1,0 +1,81 @@
+.Form {
+    margin-left:22%;
+    margin-right: 20%;
+    background-color: rgb(27, 24, 218);
+    border-radius:1px;
+    background-blend-mode: color ;
+    padding:20px;
+}
+
+.Form label{
+    color: whitesmoke;
+    text-align: center;
+    margin-left:12%;
+    font-size:20px;
+
+}
+.Form input{
+    width:70%;
+    padding:12px;
+    border-radius:5px;
+    border-style: none;
+    margin-left:12%;
+    margin-bottom: 20px;
+}
+
+.Form button{
+    margin-left:37%;
+    padding:10px;
+    width:30%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+    font-size:18px;
+    font-weight: 500;
+    border-radius: 40px;
+    border: none;
+}
+h2{
+    color: #0000FF;
+    background-color: white;
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+}
+
+
+
+/* .Form { */
+    /* background-color: blue; */
+    /* justify-items: center; */
+    /* margin-left:32%;
+    margin-right: 30%;
+    background-color: darkslategrey;
+    border-radius:10px;
+    background-blend-mode: color ;
+    padding:20px;
+}
+
+.Form label{
+    color: whitesmoke;
+    text-align: center;
+    margin-left:12%;
+    font-size:20px;
+
+}
+.Form input{
+    width:70%;
+    padding:12px;
+    border-radius:5px;
+    border-style: none;
+    margin-left:12%;
+}
+
+.Form button{
+    margin-left:37%;
+    padding:10px;
+    width:30%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkslategray;
+    font-size:18px;
+    font-weight: 500;
+} */
