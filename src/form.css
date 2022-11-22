@@ -1,7 +1,8 @@
 .Form {
     margin-left:22%;
     margin-right: 20%;
-    background-color: rgb(27, 24, 218);
+    background-color: rgba(190, 190, 234, 0.242);
+    
     border-radius:1px;
     background-blend-mode: color ;
     padding:20px;
@@ -35,8 +36,8 @@
     border: none;
 }
 h2{
-    color: #0000FF;
-    background-color: white;
+    color: #ffffff;
+    background-color: rgba(36, 183, 7, 0.305);
     width: 50%;
     text-align: center;
     margin-left: 25%;
